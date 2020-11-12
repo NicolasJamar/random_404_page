@@ -1,6 +1,6 @@
 # Random 404 page
 
-- Contributors: (this should be a list of wordpress.org userid's)
+- Contributors: @monsieujamar
 - Donate link: https://github.com/NicolasJamar
 - Tags: comments, spam
 - Requires at least: 3.0.1
