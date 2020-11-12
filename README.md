@@ -1,6 +1,6 @@
 # Random 404 page
 
-- Contributors: @monsieujamar
+- Contributors: @monsieurjamar
 - Donate link: https://github.com/NicolasJamar
 - Tags: comments, spam
 - Requires at least: 3.0.1
