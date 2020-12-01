@@ -1,16 +1,18 @@
 {
   "name": "nicolasjamar/random_404_page",
   "description": "WordPress plugin to generate a random 404 page",
+  "type": "wordpress-plugin",
   "keywords": ["wordpress", "plugin", "random", "404"],
   "homepage": "https://github.com/NicolasJamar/random_404_page",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "license": "GPL-2.0+",
   "authors": [
     {
       "name": "Nicolas Jamar",
       "homepage": "https://github.com/NicolasJamar"
     }
-  ],
-  "type": "wordpress-plugin",
+  ],  
   "require": {
     "php": ">=7.1",
     "composer/installers": "^1"
