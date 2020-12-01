@@ -11,10 +11,6 @@
 
 A very simple plugin for WordPress to generate a random 404 page.
 
-## Description
-
-In your WordPress theme, you have to create a folder `404-templates` and inside add folders `template-1` with your 404 pages.
-
 ## Installation
 
 This section describes how to install the plugin and get it working.
@@ -24,6 +20,10 @@ e.g.
 1. Upload `random_404_page.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+
+### How to use it ? 
+
+In your WordPress theme, you have to create a folder `404-templates` and inside add folders `template-1` with your 404 pages.
 
 ## Frequently Asked Questions
 
